@@ -30,6 +30,7 @@ switch (city) {
 
 
 function switchOnCharmFromTip() {
+  let tip = 'generous;'
   switch (tip) {
     case 'generous':
       console.log('Thank you so much.');
