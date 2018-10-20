@@ -32,12 +32,12 @@ switch (city) {
 function switchOnCharmFromTip() {
   switch (switchOnCharmFromTip) {
     case 'generous':
-      console.log = 'Thank you so much.';
+      console.log ('Thank you so much.');
       break;
     case 'not generous':
-     console.log = 'Thank you.';
+     console.log ('Thank you.');
       break;
     default:
-      console.log =  'Bye.';
+      console.log ( 'Bye.');
   }
 }
