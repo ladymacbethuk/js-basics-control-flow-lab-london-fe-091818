@@ -23,7 +23,7 @@ switch (city) {
 }
 */
 
-city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
+city === 'NYC' ? 'OK, sounds good.' : 'No go.';
 
 }
 
