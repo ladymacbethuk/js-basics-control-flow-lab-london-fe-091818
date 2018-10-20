@@ -23,7 +23,7 @@ switch (city) {
 }
 */
 let msg;
-city = 'NYC' ? (msg ='OK, sounds good.') : (msg = 'No go.');
+city = 'NYC' ? (msg ='Ok, sounds good.') : (msg = 'No go.');
 return msg;
 }
 
