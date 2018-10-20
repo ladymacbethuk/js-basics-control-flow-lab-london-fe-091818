@@ -30,7 +30,7 @@ switch (city) {
 
 
 function switchOnCharmFromTip() {
-  switch (switchOnCharmFromTip) {
+  switch (tip) {
     case 'generous':
       console.log('Thank you so much.');
       break;
