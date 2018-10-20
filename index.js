@@ -25,11 +25,10 @@ switch (ternaryCheckCity) {
 
 //ternaryCheckCity === "NYC" ? 'Ok, sounds good.' : 'No go.';
 
-//const switchOnCharmFromTip = 'generous';
 
 
-function switchOnCharmFromTip(tip) {
-switch (tip) {
+function switchOnCharmFromTip() {
+switch (switchOnCharmFromTip) {
   case 'generous':
     console.log = 'Thank you so much.';
     break;
