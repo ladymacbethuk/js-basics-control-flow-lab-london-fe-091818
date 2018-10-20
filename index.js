@@ -27,7 +27,7 @@ switch (ternaryCheckCity) {
 
 
 
-function switchOnCharmFromTip() {
+function x() {
 switch (switchOnCharmFromTip) {
   case 'generous':
     console.log = 'Thank you so much.';
