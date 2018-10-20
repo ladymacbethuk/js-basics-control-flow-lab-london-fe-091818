@@ -11,19 +11,17 @@ function scuberGreetingForFeet(distance) {
   }
 }
 
-/*
-function ternaryCheckCity() {;
+
+function ternaryCheckCity(city) {
 
 switch (city) {
   case "NYC":
-    console.log = 'Ok, sounds good.';
-    break;
+    return 'Ok, sounds good.';
   default:
-    console.log = 'No go.';
-    break;
+    return 'No go.';
   }
 }
-*/
+
 
 //ternaryCheckCity === "NYC" ? 'Ok, sounds good.' : 'No go.';
 
