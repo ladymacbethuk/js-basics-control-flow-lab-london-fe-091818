@@ -12,16 +12,18 @@ function scuberGreetingForFeet(distance) {
 }
 
 /*
-const ternaryCheckCity;
+function ternaryCheckCity() {;
 
-switch (ternaryCheckCity) {
+switch (city) {
   case "NYC":
     console.log = 'Ok, sounds good.';
     break;
   default:
     console.log = 'No go.';
     break;
-}*/
+  }
+}
+*/
 
 //ternaryCheckCity === "NYC" ? 'Ok, sounds good.' : 'No go.';
 
