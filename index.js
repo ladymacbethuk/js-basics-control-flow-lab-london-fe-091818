@@ -23,9 +23,10 @@ switch (city) {
 }
 */
 let msg;
-city = 'NYC' ? (msg ='Ok, sounds good.') : (msg = 'No go.');
+city = 'NYC' ? (msg='Ok, sounds good.') : (msg='No go.');
 return msg;
 }
+
 
 function switchOnCharmFromTip(tip) {
   switch (tip) {
