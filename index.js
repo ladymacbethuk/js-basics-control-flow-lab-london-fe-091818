@@ -22,9 +22,9 @@ switch (city) {
   }
 }
 */
-
-city = 'NYC' ? 'OK, sounds good.' : 'No go.';
-
+let msg;
+city = 'NYC' ? (msg ='OK, sounds good.') : (msg = 'No go.');
+return msg;
 }
 
 function switchOnCharmFromTip(tip) {
